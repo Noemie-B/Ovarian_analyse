@@ -4,7 +4,7 @@
 
 2. Step 2 is the HoVer-Net process with PanNuke weights : https://github.com/simongraham/hovernet_inference
 
-4. PyRadiomics : https://pyradiomics.readthedocs.io/en/latest/
+4. PyRadiomics : https://pyradiomics.readthedocs.io/en/latest/. For the html viewer : https://htmlviewer.github.io/
 
 4. Athena : https://github.com/AI4SCR/ATHENA/blob/master/tutorials/overview.ipynb
 
