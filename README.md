@@ -1,15 +1,18 @@
 # Ovarian_analyse
 
-1. Patches creation : https://github.com/Noemie-B/Ovarian_analyse/blob/main/1_patches_wsi.ipynb. Thanks to https://nbviewer.org/github/afiliot/TPDUIA/blob/main/TPDUIA/2022/whole_slide_images.ipynb for patch extraction file !  
-2. Nuclei segmentation and classification with HoVer-Net (PanNuke weights) : https://github.com/simongraham/hovernet_inference  
-3. Nuclei count per patch + sort patches to select the most interesting ones : https://github.com/Noemie-B/Ovarian_analyse/blob/main/3_Count_filtering%2Bsort_patch_pixels_number.ipynb  
-4. PyRadiomics features extraction : https://github.com/Noemie-B/Ovarian_analyse/blob/main/4_1_Pyradiomics.ipynb. PyRadiomics package  : https://pyradiomics.readthedocs.io/en/latest/.  
-   Classification with PyRadiomics values : https://github.com/Noemie-B/Ovarian_analyse/blob/main/5_Classification_with_PyRadiomics_values.html.  For the html viewer : https://htmlviewer.github.io/  
-5. Athena select patches : https://github.com/Noemie-B/Ovarian_analyse/blob/main/4_2a_Athena_select_patches_size.ipynb  
+1. Patches creation : https://github.com/Noemie-B/Ovarian_analyse/blob/main/1_patches_wsi.ipynb.
+   Thanks to https://nbviewer.org/github/afiliot/TPDUIA/blob/main/TPDUIA/2022/whole_slide_images.ipynb for patch extraction file !  
+3. Nuclei segmentation and classification with HoVer-Net (PanNuke weights) : https://github.com/simongraham/hovernet_inference  
+4. Nuclei count per patch + sort patches to select the most interesting ones : https://github.com/Noemie-B/Ovarian_analyse/blob/main/3_Count_filtering%2Bsort_patch_pixels_number.ipynb  
+5. PyRadiomics features extraction : https://github.com/Noemie-B/Ovarian_analyse/blob/main/4_1_Pyradiomics.ipynb.
+   PyRadiomics package  : https://pyradiomics.readthedocs.io/en/latest/.  
+   Classification with PyRadiomics values : https://github.com/Noemie-B/Ovarian_analyse/blob/main/5_Classification_with_PyRadiomics_values.html.
+   For the html viewer : https://htmlviewer.github.io/  
+7. Athena select patches : https://github.com/Noemie-B/Ovarian_analyse/blob/main/4_2a_Athena_select_patches_size.ipynb  
    Athena object creation : https://github.com/Noemie-B/Ovarian_analyse/blob/main/4_2b_Creation_object_so_PANNUKE.ipynb  
    Athena analysis : https://github.com/Noemie-B/Ovarian_analyse/blob/main/4_2c__Athena-Ovarian_analysis_PANNUKE.ipynb  
    Athena package : https://github.com/AI4SCR/ATHENA/blob/master/tutorials/overview.ipynb  
-6. Patches classification with Slideflow : https://github.com/Noemie-B/Ovarian_analyse/blob/main/5_Classification_with_Slideflow.ipynb  
+8. Patches classification with Slideflow : https://github.com/Noemie-B/Ovarian_analyse/blob/main/5_Classification_with_Slideflow.ipynb  
    Results : https://github.com/Noemie-B/Ovarian_analyse/blob/main/5_results_Slideflow.ipynb  
    Slideflow package: https://github.com/jamesdolezal/slideflow  
 
