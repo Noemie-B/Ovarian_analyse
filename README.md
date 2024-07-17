@@ -37,4 +37,3 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
    Results : https://github.com/Noemie-B/Ovarian_analyse/blob/main/5_results_Slideflow.ipynb
    Slideflow package: https://github.com/jamesdolezal/slideflow
 
-
