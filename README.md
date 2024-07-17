@@ -16,10 +16,10 @@
    - Results : https://github.com/Noemie-B/Ovarian_analyse/blob/main/5_results_Slideflow.ipynb  
    - Slideflow package: https://github.com/jamesdolezal/slideflow  
 
-##Disclaimer
+## Disclaimer
 The results and analyses presented in this repository are intended for research purposes only. They are not validated for clinical use and should not be used to diagnose, treat, or manage any health conditions. Always consult with a qualified healthcare professional for medical advice and treatment.
 
-Copyright (c) 
+## Copyright (c) 
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
