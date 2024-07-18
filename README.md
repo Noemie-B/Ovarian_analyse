@@ -20,9 +20,11 @@
 
 Python version : 3.9.7  
 
+- For HoVer-Net, please use the environment : https://github.com/Noemie-B/Ovarian_analyse/blob/main/environment_hovernet_pytorch.yml
 - For PyRadiomics, please use the environment : https://github.com/Noemie-B/Ovarian_analyse/blob/main/environment_pyradiomics.yml
 - For ATHENA, please use the environment : https://github.com/Noemie-B/Ovarian_analyse/blob/main/environment_athena.yml
 - For Slideflow, please use the environment : https://github.com/Noemie-B/Ovarian_analyse/blob/main/envrionment_slideflow.txt
+
    
 ## Disclaimer
 The results and analyses presented in this repository are intended for research purposes only. They are not validated for clinical use and should not be used to diagnose, treat, or manage any health conditions. Always consult with a qualified healthcare professional for medical advice and treatment.
