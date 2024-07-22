@@ -6,8 +6,7 @@
 4. Nuclei count per patch + sort patches to select the most interesting ones : https://github.com/Noemie-B/Ovarian_analyse/blob/main/3_Count_filtering%2Bsort_patch_pixels_number.ipynb  
 5. - PyRadiomics features extraction : https://github.com/Noemie-B/Ovarian_analyse/blob/main/4_1_Pyradiomics.ipynb.  
    - PyRadiomics package  : https://pyradiomics.readthedocs.io/en/latest/.  
-   - Classification with PyRadiomics values : https://github.com/Noemie-B/Ovarian_analyse/blob/main/5_Classification_with_PyRadiomics_values.html.
-   - For the html viewer : https://htmlviewer.github.io/  
+   - Classification with PyRadiomics values : https://htmlpreview.github.io/?https://github.com/Noemie-B/Ovarian_analyse/blob/main/5_Classification_with_PyRadiomics_values.html
 7. - Athena select patches : https://github.com/Noemie-B/Ovarian_analyse/blob/main/4_2a_Athena_select_patches_size.ipynb  
    - Athena object creation : https://github.com/Noemie-B/Ovarian_analyse/blob/main/4_2b_Creation_object_so_PANNUKE.ipynb  
    - Athena analysis : https://github.com/Noemie-B/Ovarian_analyse/blob/main/4_2c__Athena-Ovarian_analysis_PANNUKE.ipynb  
